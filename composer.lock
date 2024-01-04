@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "01186cf05d9f3c63a8c556a11be73396",
+    "content-hash": "515645fcc4ca13c44c36234b8a046e48",
     "packages": [
         {
             "name": "symfony/css-selector",
@@ -73,7 +73,7 @@
         },
         {
             "name": "vgl/simple_html_dom",
-            "version": "dev-master",
+            "version": "1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vgl-verlagsgesellschaft/simple_html_dom.git",
@@ -95,7 +95,6 @@
             "suggest": {
                 "voku/portable-utf8": "If you need e.g. UTF-8 fixed output."
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -131,7 +130,7 @@
                 "php dom"
             ],
             "support": {
-                "source": "https://github.com/vgl-verlagsgesellschaft/simple_html_dom/tree/master"
+                "source": "https://github.com/vgl-verlagsgesellschaft/simple_html_dom/tree/1.0"
             },
             "funding": [
                 {
@@ -157,9 +156,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "vgl/simple_html_dom": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {

@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=7.0.0",
-    "vgl/simple_html_dom": "dev-master",
+    "vgl/simple_html_dom": "1.0",
     "ext-dom": "*"
   },
   "autoload": {
